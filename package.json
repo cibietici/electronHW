@@ -14,6 +14,6 @@
   "dependencies": {
     "electron-forge": "^5.2.2",
     "electron-packager": "^12.0.2",
-    "npm": "^6.0.1"
+    "npm": "^6.14.6"
   }
 }
